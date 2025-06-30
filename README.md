@@ -12,17 +12,14 @@ Pneumonia is a life-threatening lung infection. Early and accurate detection is 
 - 🔴 **Pneumonia**
 
 ---
----
 
 ## 📊 Dataset
 
 - **Source:** [Chest X-Ray Images (Pneumonia) - Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 - It contains:
   - 5,216 training images
-  - 624 testing images
-
-> ⚠️ **Note:** Dataset is not uploaded here due to size constraints. Please download it manually from Kaggle and place it in the `dataset/` folder.
-
+  - 624 testing image
+  - 
 ---
 
 ## How to Run
