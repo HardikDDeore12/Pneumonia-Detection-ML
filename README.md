@@ -19,7 +19,7 @@ Pneumonia is a life-threatening lung infection. Early and accurate detection is 
 - It contains:
   - 5,216 training images
   - 624 testing image
-  - 
+    
 ---
 
 ## How to Run
